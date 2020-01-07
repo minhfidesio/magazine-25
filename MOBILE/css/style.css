@@ -42,7 +42,7 @@ body{
 body a:link{
     color: black;
     font-weight: bold;
-    text-decoration:underline;
+    text-decoration:none;
 }
 .wrapper-tt{
     font-family: 'Open Sans', sans-serif;
