@@ -107,7 +107,7 @@ img{
 
 .img-left{
     position: relative;
-    right: 12%;
+    right: 20%;
 }
 
 .row{
@@ -128,7 +128,7 @@ img{
 }
 
 .column img{
-    width: 125%;
+    width: 140%;
 }
 
 .font-bold{
