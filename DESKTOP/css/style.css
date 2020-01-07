@@ -47,7 +47,7 @@ body a:link{
     color: black;
     -webkit-text-fill-color: black;
     font-weight: bold;
-    text-decoration:underline;
+    text-decoration:none;
 }
 
 section{
